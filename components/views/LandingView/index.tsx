@@ -90,7 +90,7 @@ export default function LandingViews() {
             >
               <div className="mx-20 py-6">
                 <h2 className="text-2xl">
-                  Every transaction will be charged with 3-5% platform fee,
+                  Every transaction will be charged with 1% platform fee,
                   Cashout to your Web3 wallet will not incur transfer fees.
                 </h2>
               </div>

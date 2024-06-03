@@ -26,6 +26,10 @@ export default function LoginView() {
   const [connected, setConnected] = useState(false);
   const [account, setAccount] = useState('');
 
+  if (session.data?.user?.name) {
+    router.push("/dashboard");
+  }
+
   const addAvalancheFujiNetwork = async () => {
     if (window.ethereum) {
       try {

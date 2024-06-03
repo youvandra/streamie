@@ -1,0 +1,20 @@
+purpe color = #C8AEFF
+
+bacground color = #D9D9D9
+
+pink light color =  #FFB5E6
+
+magenta color = #FA00FF
+
+green light color = #F1FF9A 
+
+cream color = #FAFFDF
+
+yellow color = #F4CD00
+
+orange color = #FF4D00
+
+cyan color = #00F4C8
+
+
+
